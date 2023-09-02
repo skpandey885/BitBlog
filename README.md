@@ -1,5 +1,5 @@
 # BitBlog (prev : php-blog-system)
-
+BitBlog (prev : php-blog-system) is a basic blogging system where users can post blogs.
 
 **Key Features of BitBlog:** 
 1. **User Registration and Authentication:** - Users can create new accounts with unique usernames and passwords. Registered users can log in securely to access personalized features. Passwords should be securely hashed and stored.
@@ -10,13 +10,6 @@
 6. **Bootstrap Design:** - The website's frontend is designed using the Bootstrap framework for responsive and visually appealing layouts. Bootstrap components can be used to enhance the user interface.
 7. **User Login and Logout:** - Registered users can log in securely to access their accounts and personalized content. Users can log out to terminate their sessions securely.
 
-**Future Directions:** 
-1. **Comments and Interaction:** Allowing users and visitors to leave comments on blog posts, fostering discussion and engagement.
-2. **Category and Tagging System:** Implementing a categorization and tagging system to organize and filter blog posts.
-3. **Search Functionality:** Adding a search feature to help users find specific content quickly.
-4. **User Roles and Permissions:** Defining user roles (e.g., admin, author, reader) with different levels of access and control.
-5. **Social Media Sharing:** Integrating social media sharing options to expand the reach of your content.
-6. **Content Moderation:** Implementing content moderation tools to ensure the quality and appropriateness of user-generated content. Remember that web development is an iterative process, and you can continuously enhance your project as you gain more experience and skills. Starting with these key features provides a solid foundation for your BitBlog, and you can build upon them over time.
 <!--
 ## Features
 
@@ -52,3 +45,13 @@ No action was taken on security. I'm sure this system could have been written wi
 ![Screenshot_6](https://user-images.githubusercontent.com/110834643/185799127-799e9e47-9705-4623-86c9-7effa004da2c.png) <br>
 ![Screenshot_7](https://user-images.githubusercontent.com/110834643/185799193-bc088a01-6c6b-4da5-b049-9fa1e19347d0.png) <br>
 ![Screenshot_8](https://user-images.githubusercontent.com/110834643/185799209-04f02e2d-18c2-4a68-93bb-884d0d834f28.png)
+
+<br>
+
+**Future Directions:** 
+1. **Comments and Interaction:** Allowing users and visitors to leave comments on blog posts, fostering discussion and engagement.
+2. **Category and Tagging System:** Implementing a categorization and tagging system to organize and filter blog posts.
+3. **Search Functionality:** Adding a search feature to help users find specific content quickly.
+4. **User Roles and Permissions:** Defining user roles (e.g., admin, author, reader) with different levels of access and control.
+5. **Social Media Sharing:** Integrating social media sharing options to expand the reach of your content.
+6. **Content Moderation:** Implementing content moderation tools to ensure the quality and appropriateness of user-generated content. 
